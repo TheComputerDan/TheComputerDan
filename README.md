@@ -1,6 +1,14 @@
 ## TheComputerDan (a.k.a DoctorDan) 🖥
 
+- 🌎 Find me [here!](https://doctordan.dev) (Under Construction)
 
+### Fields of Interest
+- Cyber Security
+- Software Development
+- Virtualization
+- Networking
+- Automation
+- Electronics
 
 <!--
 **TheComputerDan/TheComputerDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
