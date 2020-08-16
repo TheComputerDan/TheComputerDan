@@ -1,6 +1,8 @@
 ## TheComputerDan (a.k.a DoctorDan) 🖥
+🌎 Find me [here!](https://doctordan.dev) (Under Construction)
 
-- 🌎 Find me [here!](https://doctordan.dev) (Under Construction)
+### Developer Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheComputerDan&hide=css,html,javascript&layout=compact)
 
 ### Fields of Interest
 - Cyber Security
