@@ -10,6 +10,7 @@
 ### Top Languages - Currently Used
 1. Python
 2. Golang 
+3. Rust
 
 
 ## About Me
