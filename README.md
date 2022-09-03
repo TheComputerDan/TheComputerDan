@@ -16,9 +16,6 @@
 ## About Me
 ---
 
-**Level:**
-- Junior Developer
-
 **Specializations:**  
 - Cyber Security
 - Virtualization
