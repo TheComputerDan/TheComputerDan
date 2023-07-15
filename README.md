@@ -1,28 +1,20 @@
-## TheComputerDan (a.k.a DoctorDan) 🖥
-🌎 Find me [here!](https://doctordan.dev) (Under Construction)
-
-## Developer Statistics
----
-
-
-![Top Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=TheComputerDan&hide=css,html,javascript&layout=compact)
+## TheComputerDan (a.k.a DoctorDan) 
+* Find me at [my blog](https://blog.doctordan.dev)! ✏️
 
 ### Top Languages - Currently Used
 1. Python
 2. Golang 
-3. Rust
+3. Typescript
+4. C#
 
 
 ## About Me
 ---
 
-**Specializations:**  
-- Cyber Security
-- Virtualization
+**Interests:**  
+- Full-Stack Development
+- Infrastructure
 - Networking
-- Automation
-
-**Interests:**
-- HackTheBox
-- HomeLab
-- Electronics
+- Cyber Security
+- Machine Learning
+- Embedded Systems
