@@ -12,9 +12,7 @@
 ---
 
 **Interests:**  
+- DevSecOps
 - Full-Stack Development
-- Infrastructure
 - Networking
-- Cyber Security
-- Machine Learning
 - Embedded Systems
